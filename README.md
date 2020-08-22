@@ -1,1 +1,3 @@
-# django_todo
+# To Run
+
+python manage.py runserver
